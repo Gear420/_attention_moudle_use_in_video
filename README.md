@@ -1,0 +1,2 @@
+# _attention_moudle_use_in_video
+一个cnn中注意力模型在video的尝试
